@@ -18,5 +18,4 @@ public class MotocicletaMapper extends AbstractMapper<MotocicletaDTO, Veiculo> {
                 .combustivel(motocicleta.getCombustivel())
                 .build();
     }
-
 }
